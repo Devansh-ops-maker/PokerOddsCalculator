@@ -6,5 +6,4 @@ The application allows users to select their **hole cards**, **community cards**
 
 The backend is built using **FastAPI** and performs thousands of randomized simulations to estimate the player’s winning probability against unknown opponent hands.
 
-The system evaluates poker hands in real time and returns accurate winning probabilities based on the currently known cards. It supports different stages of the game including **Preflop**, **Flop**, **Turn**, and **River** scenarios.
-
+The system evaluates poker hands in real time and returns accurate winning probabilities based on the currently known cards.
